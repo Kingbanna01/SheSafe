@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "148828636440",
+    "firebase_url": "https://track-app-38338-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "track-app-38338",
+    "storage_bucket": "track-app-38338.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148828636440:android:f50aa6ce93ceb5a90aca6d",
+        "android_client_info": {
+          "package_name": "com.example.trackapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRs_6fpy549yc25Xq_6l37SA6Orejam-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148828636440:android:593cd15370e2d1050aca6d",
+        "android_client_info": {
+          "package_name": "com.example.tracklocation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRs_6fpy549yc25Xq_6l37SA6Orejam-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

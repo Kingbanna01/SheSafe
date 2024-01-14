@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Track Location</string>
+
+    <string name="my_map_api_key">AIzaSyCdju0KHc2I59pQG5llC__lxcG6UlMApdg</string>
+    <string name="chat">Chat</string>
+</resources>
